@@ -16,6 +16,9 @@ Dense scalp hair poses significant challenges for ultrasound-based distance meas
 * Inconsistent values: Significant variation in the time taken for sound waves to reflect and return to the sensor.
 * Weak reflections: Low amplitude signals caused by high absorption of ultrasound waves by hair.
 
+
+![Diagram of the system](https://github.com/chathuracns/Human-Height-Measuring-Under-Low-Ultrasound-Reflection-due-to-Dense-Scalp-Hair/blob/main/Inconsistent%20data.png)
+
 ### Methodology
 #### Data Collection:
 * The ultrasound sensor is positioned above the head, emitting 10ms long sound pulses.

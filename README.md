@@ -32,6 +32,8 @@ Dense scalp hair poses significant challenges for ultrasound-based distance meas
   * Random Values: Outliers caused by sensor imperfections.
   * Sharp Measurement Lines: Maximum time values (1500 ns) indicating insufficient return signals.
 
+![Diagram of the system](https://github.com/chathuracns/Human-Height-Measuring-Under-Low-Ultrasound-Reflection-due-to-Dense-Scalp-Hair/blob/main/Identified%20patterns.png)
+
 #### Clustering Algorithm:
 * Implemented a K-means clustering algorithm to classify the data into three clusters (K=3), corresponding to the observed patterns.
 * Initially used random values for K-means, but found that making educated guesses for the initial cluster centers significantly improved performance.
